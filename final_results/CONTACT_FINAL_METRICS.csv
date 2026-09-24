@@ -1,0 +1,16 @@
+evaluation,coverage,contact,no_contact,auroc
+FuturePair36 — Primary9,9,5,4,1.0
+FuturePair36 — Primary9 + Fresh20,22,16,6,0.8541666666666666
+FuturePair36 — Primary9 + Expanded,17,9,8,0.8611111111111112
+FuturePair36 — Expanded only,8,4,4,0.75
+FuturePair36 — Full expanded resolved,30,20,10,0.81
+Original Backward — own coverage,28,19,9,0.7192982456140351
+MultiEpisode 1.0x — own coverage,28,19,9,0.7426900584795322
+Strong 1.5x — own coverage,28,19,9,0.7777777777777778
+Strong 2.0x — own coverage,25,17,8,0.7647058823529411
+Original Backward — common25,25,17,8,0.7058823529411765
+MultiEpisode 1.0x — common25,25,17,8,0.7205882352941176
+Strong 1.5x — common25,25,17,8,0.7573529411764706
+Strong 2.0x — common25,25,17,8,0.7647058823529411
+FuturePair36 — common25,25,17,8,0.875
+Local causal pre/post — full resolved,32,22,10,0.7295454545454545

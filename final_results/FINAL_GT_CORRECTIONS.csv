@@ -1,0 +1,3 @@
+case,corrected_label,corrected_gt
+Cosmos3_seed101_0035,0,NO_CONTACT
+Cosmos3_seed103_0037,1,CONTACT
