@@ -1,0 +1,24 @@
+# Large generated data
+*.mp4
+*.avi
+*.mov
+*.npz
+*.npy
+*.pt
+*.pth
+*.ckpt
+*.bin
+
+# Images / masks generated during evaluation
+*.png
+*.jpg
+*.jpeg
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Logs / cache
+*.log
+.cache/

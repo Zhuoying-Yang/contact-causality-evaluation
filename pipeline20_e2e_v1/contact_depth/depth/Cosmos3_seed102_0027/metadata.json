@@ -1,0 +1,13 @@
+{
+  "case": "Cosmos3_seed102_0027",
+  "video_frames": 189,
+  "video_height": 720,
+  "video_width": 1280,
+  "depth_shape": [
+    189,
+    720,
+    1280
+  ],
+  "depth_min": 1.8102248907089233,
+  "depth_max": 11.232662200927734
+}
